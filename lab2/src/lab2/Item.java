@@ -12,9 +12,10 @@ public class Item
 {
 
   //------------------------
-  // MEMBER VARIABLES
-  //------------------------
+  // MEMBER VARIABLES are intialized 
 
+  //------------------------
+  //memeber//
   //Item Attributes
   private boolean byWeight;
   private boolean taxable;
